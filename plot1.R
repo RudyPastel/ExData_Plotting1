@@ -28,4 +28,8 @@ with(info,hist(Global_active_power, col = "red", main = "Global Active Power", x
 # Plot to a png file
 png("plot1.png")
 with(info,hist(Global_active_power, col = "red", main = "Global Active Power", xlab = "Global Active Power (kilowatts)"))
+<<<<<<< HEAD
 dev.off()
+=======
+dev.off()
+>>>>>>> 73c1a808e922b00dd1bd95558794cd561379cedc
